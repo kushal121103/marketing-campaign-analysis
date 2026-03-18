@@ -1,112 +1,94 @@
-#  Marketing Campaign Analysis (SQL + Power BI)
+# Marketing Campaign Analysis (SQL + Power BI)
 
-# Project Overview
+##  Project Overview
 
-This project analyzes a marketing campaign dataset to understand customer behavior, product performance, and campaign effectiveness.
+This project focuses on analyzing customer data from a marketing campaign to uncover insights about customer behavior, product performance, and campaign effectiveness.
 
-The goal is to answer key business questions and provide actionable insights that can improve marketing ROI and customer targeting.
+The objective is to help businesses make **data-driven decisions** to improve targeting, increase revenue, and optimize marketing strategies.
 
-# Business Problem
+---
 
-Companies often run marketing campaigns without fully understanding:
+##  Business Objective
 
-Which customers are most likely to respond
+Marketing teams often struggle with:
 
-Which products generate the most revenue
+* Identifying the right customer segments
+* Understanding which products drive revenue
+* Measuring campaign success
 
-How customer demographics impact purchasing behavior
+This project solves these challenges using data analysis.
 
-This project aims to solve these problems using data-driven insights.
+---
 
-# Key Business Questions Answered
-1. Customer Behavior
+##  Business Questions Answered
 
-Which age group spends the most?
+###  Customer Analysis
 
-Do higher-income customers purchase more premium products?
+* Which age group spends the most?
+* Do high-income customers contribute more revenue?
+* Which customer segments are most valuable?
 
-Which customer segments respond best to campaigns?
+###  Product Analysis
 
-2. Product Performance
+* Which products generate the highest revenue?
+* Which product categories are most popular?
+* Are customers purchasing multiple categories?
 
-Which products generate the highest revenue?
+###  Campaign Analysis
 
-Which product categories are most frequently purchased?
+* What is the campaign response rate?
+* Which customers are more likely to accept offers?
+* How can campaign targeting be improved?
 
-Are customers buying multiple products or focusing on one category?
+###  Revenue Insights
 
-3. Campaign Effectiveness
+* What drives customer spending?
+* Which factors influence purchase behavior?
 
-What is the overall campaign response rate?
+---
 
-Which customer segments are more likely to accept offers?
+##  Tools Used
 
-Which campaigns performed best?
+* SQL → Data cleaning & analysis
+* Power BI → Dashboard & visualization
 
-4. Sales & Revenue Insights
+---
 
-What is the total revenue generated?
+##  Dashboard Preview
 
-Which factors influence customer spending the most?
+### 🔹 Overall Performance
 
-Is there a pattern in purchasing behavior?
+<img width="1376" height="850" alt="Screenshot 2026-03-18 155607" src="https://github.com/user-attachments/assets/295b4960-c68c-4c6b-b132-d546d8abaca3" />
 
-# Tools & Technologies Used
+### 🔹 Product Insights
 
-SQL → Data cleaning, transformation, and analysis
+<img width="1381" height="851" alt="Screenshot 2026-03-18 155631" src="https://github.com/user-attachments/assets/3e663d5f-df24-4668-a591-d76b84001fa6" />
 
-Power BI → Interactive dashboards and visualization
 
-# Dashboard Features
+---
 
-KPI metrics (Total Revenue, Customers, Campaign Response)
+##  Key Insights
 
-Product-wise revenue analysis
+1) Wine products generate the highest revenue
+2) High-income customers are the most valuable segment
+3) Campaign response rate is relatively low
+4) Middle-aged customers contribute the most purchases
+5) Customers prefer specific product categories
 
-Customer segmentation (Age, Income, Education)
+---
 
-Campaign performance insights
+##  Business Recommendations
 
-Purchase behavior trends
+* Target high-income customers for better ROI
+* Improve campaign targeting using customer segmentation
+* Focus on high-performing products like wine
+* Personalize marketing campaigns
 
-# Key Insights
+---
 
-1) Wine products generate the highest revenue, making them the most profitable category
+##  Project Files
 
-2) High-income customers spend significantly more, especially on premium products
+* `Marketing_campaign.sql` → SQL queries
+* `market_campaign.pbix` → Power BI dashboard
 
-3) Campaign response rate is low, indicating poor targeting strategy
 
-4) Middle-aged customers are the most active buyers
-
-5) Customers tend to purchase from specific product categories rather than all
-
-# Business Recommendations
-
-Focus marketing campaigns on high-income customer segments
-
-Improve targeting using customer segmentation (age + income)
-
-Promote high-performing products (like wine) more aggressively
-
-Personalize offers to increase campaign response rate
-
-# Project Structure
-
-Marketing_campaign.sql → SQL queries for analysis
-
-market_campaign.pbix → Power BI dashboard
-
-dashboard1.png → Dashboard preview
-
-# Skills Demonstrated
-
-Data Cleaning & Transformation
-
-SQL Query Writing
-
-Data Visualization
-
-Business Analysis & Insight Generation
-
-Dashboard Design

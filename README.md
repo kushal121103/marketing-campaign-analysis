@@ -58,11 +58,13 @@ This project solves these challenges using data analysis.
 
 ### 🔹 Overall Performance
 
-<img width="1376" height="850" alt="Screenshot 2026-03-18 155607" src="https://github.com/user-attachments/assets/295b4960-c68c-4c6b-b132-d546d8abaca3" />
+<img width="1158" height="655" alt="Screenshot 2026-04-03 183122" src="https://github.com/user-attachments/assets/eb522d67-6b51-4102-b9f7-14c218c3546e" />
+
 
 ### 🔹 Product Insights
 
-<img width="1381" height="851" alt="Screenshot 2026-03-18 155631" src="https://github.com/user-attachments/assets/3e663d5f-df24-4668-a591-d76b84001fa6" />
+<img width="1161" height="651" alt="Screenshot 2026-04-03 183132" src="https://github.com/user-attachments/assets/0acc0e4c-ca5d-4451-872f-7dc361ad1bd3" />
+
 
 
 ---
